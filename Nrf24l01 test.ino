@@ -1,3 +1,18 @@
+// VCC -> 3.3V (ESP32)
+
+// GND -> GND (ESP32)
+
+// CE -> GPIO 22
+
+// CSN -> GPIO 21
+
+// SCK -> GPIO 18
+
+// MOSI -> GPIO 23
+
+// MISO -> GPIO 19
+
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
