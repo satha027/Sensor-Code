@@ -1,0 +1,32 @@
+Esp32 
+With Nrf
+
+VCC -> 3.3V (ESP32)
+GND -> GND (ESP32)
+CE -> GPIO 22
+CSN -> GPIO 21
+SCK -> GPIO 18
+MOSI -> GPIO 23
+MISO -> GPIO 19
+
+Esp8266 
+With Nrf
+VCC -> 3.3V
+GND -> GND
+CE -> D2
+CSN -> D1
+SCK -> D5
+MOSI -> D7
+MISO -> D6
+Pusg Button D0
+
+Arduino Nano
+With Nrf
+VCC -> 3.3V (ESP32)
+GND -> GND (ESP32)
+CE -> D9
+CSN -> D10
+SCK -> D13
+MOSI -> D11
+MISO -> D12
+Pusg Button D2
