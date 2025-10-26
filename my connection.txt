@@ -1,4 +1,4 @@
-Esp32 
+Esp32 Type C
 With Nrf
 VCC -> 3.3V (ESP32)
 GND -> GND (ESP32)
@@ -9,6 +9,17 @@ MOSI -> GPIO 23
 MISO -> GPIO 19
 Voltage sensor GPIO 34
 Current Sensor GPIO 35
+
+Esp32 Type B
+With Nrf
+VCC -> 3.3V (ESP32)
+GND -> GND (ESP32)
+CE -> D4
+CSN -> D5
+SCK -> D18
+MOSI -> D23
+MISO -> D19
+Voltage sensor D 34
 
 Arduino Nano
 With Nrf
